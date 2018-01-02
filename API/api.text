@@ -1,0 +1,6 @@
+1、 启动程序
+2、在浏览器里输入http://localhost:8080/springSecurity/auth/login
+3、 输入用户名admin密码admin后，点击“Login”按纽
+4、 点击“Go AdminPage”链接，因为有权限，所以可看到管理员页面
+5、 点击“退出登录”，返回登录页；输入用户名user密码user并登录
+6、点击Go AdminPage链接，因为没有权限，所以看到权限不够的提示
